@@ -1,0 +1,42 @@
+_repo: The-Little-Review-May-1916-Vol-3-No-3_75706
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+  editor:
+    agent_name: Anderson, Margaret C.
+    alias: Anderson, Margaret Carolyn
+    birthdate: 1886
+    deathdate: 1973
+    gutenberg_agent_id: '50946'
+    url: http://www.gutenberg.org/2009/agents/50946
+    wikipedia: https://en.wikipedia.org/wiki/Margaret_C._Anderson
+description: ''
+gutenberg_issued: '2025-03-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75706'
+language: en
+pgterms:marc904: http://www.modjourn.org/render.php?view=mjp_object&id=LittleReviewCollection
+pgterms:marc905: 20181128060036anderson
+pgterms:marc906: 1914-1922
+pgterms:marc907: us
+production_note: Jens Sadowski and the Online Distributed Proofreading Team at http://www.pgdp.net.
+  This book was produced from images made available by the Modernist Journal Project,
+  Brown and Tulsa Universities.
+publication_note: '  $aChicago, New York :$bApparently none other than the Editor
+  (see above)., $c1914-1922.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Literature, Modern -- 20th century -- Periodicals'
+- !lcc 'AP'
+- GITenberg
+title: The Little Review, May 1916 (Vol. 3, No. 3)
+url: http://www.gutenberg.org/ebooks/75706
